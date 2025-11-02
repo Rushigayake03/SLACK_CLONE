@@ -10,8 +10,8 @@ export const ENV = {
     STREAM_API_SECRET: process.env.STREAM_API_SECRET,
 
     SENTRY_DSN: process.env.SENTRY_DSN,
-    INGEST_API_KEY: process.env.INGEST_API_KEY,
-    INGEST_SIGNING_KEY: process.env.INGEST_SIGNING_KEY,
+    INNGEST_API_KEY: process.env.INNGEST_API_KEY,
+    INNGEST_SIGNING_KEY: process.env.INNGEST_SIGNING_KEY,
 
 
 };
